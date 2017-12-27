@@ -1,1 +1,1 @@
-# BKIT_Lab6
+# lab6
